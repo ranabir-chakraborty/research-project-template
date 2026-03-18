@@ -227,7 +227,3 @@ Typical workflow:
 5. Start analysis.
 
 ---
-
-# License
-
-Add a suitable license if sharing the repository publicly.
